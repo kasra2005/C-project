@@ -1,4 +1,4 @@
-# C++-project
+# C++ project
 Museum system
 P Project – Advanced Programming
 Description:
